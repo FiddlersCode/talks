@@ -1,0 +1,15 @@
+git add -i
+sudo !!
+!$
+CTRL-R
+configure default git commit messages
+configure default editor
+CTRL-A
+ALT-l/r arrows
+&&
+https://github.com/nvbn/thefuck
+
+PHPStorm
+terminal
+automatic refactoring
+merge conflict tool
